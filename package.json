@@ -1,0 +1,9 @@
+{
+  "name": "socket-webinar",
+  "version": "0.0.1",
+  "description": "software for comunicate multiple people",
+  "dependencies": {
+    "express": "4.10.2",
+    "socket.io": "1.4.8"
+  }
+}
